@@ -1,0 +1,20 @@
+@import './colors.css';
+
+.card {
+    color:black;
+    background-color: orange;
+    box-shadow:2px #2f4f4f;
+    border-radius: 1rem;
+}
+
+
+ .card:hover {
+    transition: 1s ease;
+    transform: scale(1.1); /* Увеличиваем масштаб */
+    background-color: orangered;
+  cursor: pointer;
+  font-weight: 900;
+ 
+   }
+
+   
