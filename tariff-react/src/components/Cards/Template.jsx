@@ -1,6 +1,3 @@
-// template 
-import React from 'react';
-
 
 function Template(props) {
   return (

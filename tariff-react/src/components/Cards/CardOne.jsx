@@ -1,5 +1,5 @@
 // ParentComponent.js
-import React from 'react';
+
 import Template from './Template';
 import styles from './cardOne.module.css'; 
 

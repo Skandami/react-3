@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Template from './Template';
 import styles from './cardTwo.module.css';
 

@@ -1,10 +1,10 @@
-import React from 'react';
+
 import './App.css';
-import Header from './Header.jsx';
-import CardOne from './CardOne.jsx'; 
-import CardTwo from './CardTwo.jsx'; 
-import CardThree from './CardThree.jsx';
-import CardFour from './CardFour.jsx';
+import Header from './components/Cards/header/Header.jsx';
+import CardOne from './components/Cards/CardOne.jsx'; 
+import CardTwo from './components/Cards/CardTwo.jsx'; 
+import CardThree from './components/Cards/CardThree.jsx';
+import CardFour from './components/Cards/CardFour.jsx';
 
 
 
