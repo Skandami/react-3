@@ -3,8 +3,11 @@
   --primary-color: #007bff;
   --secondary-color: #6c757d;
   --violet: #8a2be2;
+  --white: #ffffff;
   --blue: #87cefa;
   --red: #ff0000;
+ --orangered: #ff4500;
   --grey: #2f4f4f;
   --green: green;
+  --yellow: rgb(251, 251, 10);
 }

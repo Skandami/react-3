@@ -5,7 +5,6 @@
   text-align: center;
 }
 
-
 .container {
   width:1000px;
   display: grid;
@@ -41,4 +40,9 @@
 }
 .comment {
   padding: 1rem;
+}
+
+.choice {
+  padding-bottom: 1em;
+  border: 2px solid var(--white);
 }

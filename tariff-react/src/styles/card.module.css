@@ -1,0 +1,61 @@
+/* card.module.css */
+
+@import './colors.css';
+
+.cardOne {
+    color: var(--white);
+    background-color: var(--violet);
+    border-radius: 1rem;
+}
+
+    .cardOne:hover {
+    background-color: var(--yellow);
+    color: var(--grey);
+  cursor: pointer;
+  font-weight: 900;
+ 
+   }
+
+.cardTwo {
+    background-color: var(--green);
+  border-radius: 1rem;
+}
+
+    .cardTwo:hover {
+    background-color: var(--yellow);
+  cursor: pointer;
+  font-weight: 900;
+ 
+   }
+
+
+.cardThree {
+    color:black;
+    background-color: orange;
+    box-shadow:2px var(--grey);
+    border-radius: 1rem;
+}
+
+
+ .cardThree:hover {
+   background-color: var(--yellow);
+  cursor: pointer;
+  font-weight: 900;
+ 
+   }
+.cardFour {
+    color:azure;
+    background-color:var(--grey);
+    border-radius:1.5rem;
+    }
+
+    .cardFour:hover {
+      color: var(--grey);
+    
+    background-color: var(--yellow);
+  cursor: pointer;
+  font-weight: 900;
+ 
+   }
+
+   
