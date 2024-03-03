@@ -1,5 +1,3 @@
-/* card.module.css */
-
 @import './colors.css';
 
 .cardOne {
@@ -55,7 +53,5 @@
     background-color: var(--yellow);
   cursor: pointer;
   font-weight: 900;
- 
-   }
+ }
 
-   
